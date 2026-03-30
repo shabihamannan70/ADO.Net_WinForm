@@ -1,0 +1,19 @@
+-- Dr. Rahman (Cardiology)
+(1, 'Cardiology', 'Diagnoses and treats heart diseases'),
+(1, 'Performs bypass and valve surgeries', 'Performs bypass and valve surgeries'),
+
+-- Dr. Akter (Neurology)
+(2, 'Neurology', 'Treats brain and nervous system disorders'),
+(2, 'Stroke Management', 'Specialist in post-stroke care'),
+
+-- Dr. Sultana (Gynecology)
+(3, 'Gynecology', 'Focuses on women’s reproductive health'),
+(3, 'Obstetrics', 'Handles pregnancy and childbirth'),
+
+-- Dr. Karim (Orthopedics)
+(4, 'Orthopedics', 'Treats bone and joint problems'),
+(4, 'Sports Medicine', 'Specialist in sports injuries'),
+
+-- Dr. Hossain (Pediatrics)
+(5, 'Pediatrics', 'Provides medical care for children'),
+(5, 'Child Development', 'Focuses on growth and developmental issues');
